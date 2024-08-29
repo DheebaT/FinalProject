@@ -1,5 +1,8 @@
 **STRUCTURED INFORMATION RETRIEVAL USING LLMs FOR ACADEMIC RESEARCH**
+
+
 **Overview**
+
 This project demonstrates the use of a Bi-LSTM (Bidirectional Long Short-Term Memory) and fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model for entity extraction from text documents. Both models are leveraged to perform Named Entity Recognition (NER) tasks on textual data, providing structured information by identifying entities such as names, dates, and other specific terms within the text. This approach is particularly useful for academic research, where precise and accurate information retrieval is crucial.
 
 **Project Structure**
